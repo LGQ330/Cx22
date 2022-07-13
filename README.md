@@ -18,7 +18,7 @@ Step 1: download the data source images at the following link and unzip the "png
 Step 2: download the label datasets Cx22-*.
 ```
 
-* [Cx22-Pair](https://github.com/LGQ330/Cx22/blob/master/Cx22-Pair.zip)
+* [Cx22-Pair](https://github.com/LGQ330/Cx22/blob/main/Cx22-Pair.zip)
 
 * [Cx22-Multi-Train]()                                ~ link will be made available here once our paper is accepted. 
 
@@ -71,8 +71,8 @@ If you find our work useful in your research, please consider citing:
 The information will be made available here once our paper is accepted. The paper submission information is as follows:
 ```
 
+## Terms of use
 
-# Terms of Use 
 Terms of use: by downloading the Cx22 you agree to the following term:
 
 - You will use the data only for non-commercial research and educational purposes.
