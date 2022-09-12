@@ -20,13 +20,14 @@ Step 2: download the label datasets Cx22-*.
 
 * [Cx22-Pair](https://github.com/LGQ330/Cx22/blob/main/Cx22-Pair.zip)
 
-* [Cx22-Multi-Train]()                                ~ link will be made available here once our paper is accepted. 
+* [Cx22-Multi-Train]()                                ~ link will be made available here once our manuscript is accepted. 
 
-* [Cx22-Multi-Test]()                                 ~ link will be made available here once our paper is accepted. 
+* [Cx22-Multi-Test]()                                 ~ link will be made available here once our manuscript is accepted. 
 
   ```
   The paper submission information is as follows:
-  
+  	Journal: "Computers in Biology and Medicine". 
+  	Manuscript Number: CIBM-D-22-04378
   ```
 
 ## Dataset Generation
@@ -64,11 +65,23 @@ Step 4:
 	Then: select the source directory created in Step 1
 	Finally: waiting until the "ImageDataSet.mat" is generated. "ImageDataSet.mat" will be saved in the same directory of "ImageDataGenerator.m". "ImageDataSet.mat" records the images corresponding to the labels.
 ```
+## Evaluations
+
+Usage of the evaluation codes below can be found [here](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/dataset.html). More details of the usage can be found in the [repository](https://github.com/luzhi/cellsegmentation_TIP2015).
+
+The evaluation codes:
+
+​	[evaluateCytoSegmentation.m](https://github.com/LGQ330/Cx22/blob/main/evaluateCytoSegmentation.m) 
+	[SegEvaluateJIDiceTPRFPR.m](https://github.com/LGQ330/Cx22/blob/main/SegEvaluateJIDiceTPRFPR.m)
+	[CytoScriptExample.m](https://github.com/LGQ330/Cx22/blob/main/CytoScriptExample.m)
+
+Description of the metrics can be found [here](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/evaluation.html)
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
 ```
-The information will be made available here once our paper is accepted. The paper submission information is as follows:
+The information will be made available here once our Manuscript is accepted by journal "Computers in Biology and Medicine". Our submitted manuscript number is CIBM-D-22-04378
 ```
 
 ## Terms of use
