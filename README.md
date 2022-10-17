@@ -20,14 +20,12 @@ Step 2: download the label datasets Cx22-*.
 
 * [Cx22-Pair](https://github.com/LGQ330/Cx22/blob/main/Cx22-Pair.zip)
 
-* [Cx22-Multi-Train]()                                ~ link will be made available here once our manuscript is accepted. 
+* [Cx22-Multi-Train]()  ~ link will be made available soon once the full bibliographic details of our artical in publishing is available. 
 
-* [Cx22-Multi-Test]()                                 ~ link will be made available here once our manuscript is accepted. 
+* [Cx22-Multi-Test]()  ~ link will be made available soon once the full bibliographic details of our artical in publishing is available. 
 
   ```
-  The paper submission information is as follows:
-  	Journal: "Computers in Biology and Medicine". 
-  	Manuscript Number: CIBM-D-22-04378
+  The artical is available online: https://www.sciencedirect.com/science/article/abs/pii/S0010482522009027?via%3Dihub
   ```
 
 ## Dataset Generation
@@ -81,7 +79,7 @@ Description of the metrics can be found [here](https://cs.adelaide.edu.au/~carne
 
 If you find our work useful in your research, please consider citing:
 ```
-The information will be made available here once our Manuscript is accepted by journal "Computers in Biology and Medicine". Our submitted manuscript number is CIBM-D-22-04378
+The full bibliographic details of our accepted artical is available soon...
 ```
 
 ## Terms of use
