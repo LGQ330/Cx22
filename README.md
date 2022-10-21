@@ -74,7 +74,7 @@ Description of the metrics can be found [here](https://cs.adelaide.edu.au/~carne
 
 ## Citation
 
-If you find our work useful in your research or use the labels of Cx22 in publishing your article, please citing:
+If you find our work useful in your research or use the labels of Cx22 in publishing your article, please cite our [paper](https://www.sciencedirect.com/science/article/pii/S0010482522009027):
 ```
 @article{LIU2022106194,
 title = {Cx22: A new publicly available dataset for deep learning-based segmentation of cervical cytology images},
